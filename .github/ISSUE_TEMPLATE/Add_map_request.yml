@@ -33,6 +33,7 @@ body:
         - Cooperative Mission
         - Art Of Defense
         - Tower Defense
+        - Tank Mission
         - etc
     validations:
       required: true
